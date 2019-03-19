@@ -1,0 +1,55 @@
+body {
+	width: 600px;
+	margin-top: 5%;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+.titel {
+	font-size: 40px;
+	margin-top: 60px;
+	color: #FF9933;
+	font-family: cursive;
+}
+
+.banner {
+	margin-left: 19%;
+	display: inline;
+}
+
+.navigatie {
+	
+	text-align: center;
+}
+
+.hoofdnavigatie {
+	
+	text-align: center;
+}
+
+ .achtergrond {
+	
+	text-align: center;
+}
+
+.imghond {
+	display: inline-block;
+    margin-left: 1%;
+    margin-right: auto;
+}
+
+.eigenaar {
+	text-align: center;
+	border-radius: 15px;
+	height: 1.2em;
+	background-color: #FF9933;
+}
+
+.eigenaar2 {
+	text-align: center;
+	
+}
+
+.row {
+	width: 145%;
+}
