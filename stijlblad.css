@@ -1,3 +1,5 @@
+/* algemeen */
+
 body {
 	width: 600px;
 	margin-top: 5%;
@@ -11,6 +13,13 @@ body {
 	color: #FF9933;
 	font-family: cursive;
 }
+
+.hoofdTitel {
+	color: #FF9933;
+}
+ a:hover {
+ 	color: #FF9933
+ }
 
 .banner {
 	margin-left: 19%;
@@ -37,6 +46,8 @@ body {
     margin-left: 1%;
     margin-right: auto;
 }
+
+/* hondenwijzer */
 
 .eigenaar {
 	text-align: center;
@@ -90,9 +101,8 @@ h4 {
 	color: inherit;
 }
 
-.einde {
-	background-color: #999999;
-	height: 1.5em;
-	text-indent: 20px;
+/* pups */ 
 
+h5 {
+	color: #FF9900;
 }
