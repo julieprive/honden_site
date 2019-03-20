@@ -58,6 +58,35 @@ h4 {
 	color: #FF9900;
 }
 
-.clearfix {
-	overflow: auto;
+.foto {
+	width:170px;
+	height:170px;
+	float: right;
+
+}
+
+.fotoL {
+	width:170px;
+	height:170px;
+	margin-right:15px;
+	float: left;
+}
+
+.fotoZ {
+	float: right;
+
+}
+
+.site {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.foto1 {
+	float: right;
+}
+
+footer {
+	border: solid;
+	background-color: #999999;
 }
