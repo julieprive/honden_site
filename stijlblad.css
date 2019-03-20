@@ -86,7 +86,13 @@ h4 {
 	float: right;
 }
 
-footer {
-	border: solid;
+.site2 {
+	color: inherit;
+}
+
+.einde {
 	background-color: #999999;
+	height: 1.5em;
+	text-indent: 20px;
+
 }
