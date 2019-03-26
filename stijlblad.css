@@ -88,6 +88,11 @@ h4 {
 
 }
 
+.fotoS {
+	float: right;
+	list-style-type: none;
+}
+
 .site {
 	color: inherit;
 	text-decoration: underline;
